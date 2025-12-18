@@ -1,0 +1,28 @@
+{
+  "invoices": [
+    {
+      "customerCode":1000023,
+      "invoiceType":Internet,
+      "amount":100.50,
+      "invoiceDate": 12/05/2023
+    },
+    {
+      "customerCode": 1000024,
+      "invoiceType":Water,
+      "amount":450,
+      "invoiceDate":20/03/2024
+    },
+    {
+      "customerCode": 1000025,
+      "invoiceType":Water,
+      "amount":260,
+      "invoiceDate":20/04/2024
+    },
+    {
+      "customerCode":1000026,
+      "invoiceType":Electricity,
+      "amount":700,
+      "invoiceDate":15/06/2024
+    }
+  ] 
+}
